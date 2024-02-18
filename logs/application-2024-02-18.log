@@ -1,0 +1,62 @@
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"39:01"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"39:24"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"04"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:40:10"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-02.mhj9541.mongodb.net\u001b[0m","timestamp":"16:40"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-02.mhj9541.mongodb.net\u001b[0m","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:42"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:42"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:42"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:43"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:43"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:43"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:43"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:44"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:44"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:44"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:44"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:57"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:57"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:57"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:57"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:58"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:58"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:58"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:58"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-02.mhj9541.mongodb.net\u001b[0m","timestamp":"16:58"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:58"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-01.mhj9541.mongodb.net\u001b[0m","timestamp":"16:59"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"16:59"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"16:59"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-00.mhj9541.mongodb.net\u001b[0m","timestamp":"17:08"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"17:08"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"17:08"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"17:08"}
+{"level":"info","message":"\u001b[36mDB: MongoDB Connected: ac-jva9pao-shard-00-01.mhj9541.mongodb.net\u001b[0m","timestamp":"17:42"}
+{"level":"info","message":"\u001b[32mDB:\u001b[0m MongoDB Connected","timestamp":"17:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Starting server...","timestamp":"17:42"}
+{"level":"info","message":"\u001b[36mServer:\u001b[0m Server started onto port 8080","timestamp":"17:42"}
